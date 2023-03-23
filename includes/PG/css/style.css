@@ -1,0 +1,11 @@
+
+.ans {
+   height: 60px;
+   width: 150px;
+   padding: 15px;
+   border-width: 5px;
+   border-style: dashed;
+   border-color: rgb(5, 89, 89);
+   box-sizing: border-box;
+ 
+}
